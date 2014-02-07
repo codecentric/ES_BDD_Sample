@@ -1,0 +1,11 @@
+.idea*
+.gradle*
+build/*
+out/*
+target/*
+
+references.txt
+
+*.iml
+*.ipr
+*.iws
